@@ -1,5 +1,7 @@
 # News and Updates
 
+![Progress and development](../assets/images/04-progress-development.svg)
+
 This directory contains dated, public-facing updates about BAES-related activity.
 
 ## What belongs here
