@@ -29,6 +29,7 @@ BAES-Updates is not a replacement for BAES-Public and does not redefine the stan
 - **[`news/`](news/README.md)** — dated public announcements and activity updates.
 - **[`research/`](research/README.md)** — research questions, study notes, evaluation plans, and public research outputs.
 - **[`collaboration/`](collaboration/README.md)** — collaboration interests, contact routes, and opportunities for research discussion.
+- **[Current research and collaboration opportunities](collaboration/current-opportunities.md)** — the currently listed proposal, including its scope, expected deliverables, duration, and indicative funding request.
 
 Each section may grow as there is substantive material to publish. The structure is intentionally lightweight; files should be added when they serve a clear purpose.
 
