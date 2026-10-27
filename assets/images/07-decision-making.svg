@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+<title id="title">Decision Making</title>
+<desc id="desc">BAES thematic vector icon: Decision Making.</desc>
+<rect x="2" y="2" width="96" height="96" rx="14" fill="#f5f9ff"/>
+<path d="M50 17V80" stroke="#173f70" stroke-width="5" stroke-linecap="round"/><path d="M50 29H78L68 39H50Z" fill="#20a78a"/><path d="M50 45H20L30 55H50Z" fill="#2787c9"/><path d="M50 61H78L68 71H50Z" fill="#f0a43a"/><circle cx="50" cy="17" r="5" fill="#173f70"/>
+</svg>
