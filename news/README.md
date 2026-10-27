@@ -19,3 +19,7 @@ This directory contains dated, public-facing updates about BAES-related activity
 - Do not publish confidential correspondence or private information without permission.
 
 Updates should record verifiable activity, not serve as promotional claims unsupported by evidence.
+
+---
+
+[← Back to BAES-Updates Home](https://github.com/babak-rasti-meymandi/BAES-Updates/)
