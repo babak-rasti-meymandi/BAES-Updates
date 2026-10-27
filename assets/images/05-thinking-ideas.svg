@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+<title id="title">Thinking & Ideas</title>
+<desc id="desc">BAES thematic vector icon: Thinking & Ideas.</desc>
+<rect x="2" y="2" width="96" height="96" rx="14" fill="#f5f9ff"/>
+<path d="M50 17C34 17 23 30 23 44c0 11 6 18 12 24v8h30v-8c6-6 12-13 12-24 0-14-11-27-27-27Z" fill="#145b91"/><path d="M50 31c-7 0-11 5-11 11 0 5 4 8 6 12h10c2-4 6-7 6-12 0-6-4-11-11-11Z" fill="white"/><path d="M44 59H56M45 64H55" stroke="#20a78a" stroke-width="3" stroke-linecap="round"/><path d="M50 22V18M32 30 28 26M68 30 72 26" stroke="#f0a43a" stroke-width="3" stroke-linecap="round"/>
+</svg>
