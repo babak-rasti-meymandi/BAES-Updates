@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-labelledby="title desc">
+  <title id="title">Evaluation process</title>
+  <desc id="desc">Define scope, design scenarios, collect evidence, analyze findings, and report limitations.</desc>
+  <rect width="640" height="150" rx="14" fill="#f7f9fc"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <rect x="14" y="38" width="108" height="66" rx="9" fill="#e7eefb" stroke="#5475ad"/>
+    <text x="68" y="66" font-size="13" font-weight="700" fill="#1f3558">Define</text><text x="68" y="84" font-size="13" fill="#1f3558">scope</text>
+    <path d="M124 71 H137 M132 66 L138 71 L132 76" fill="none" stroke="#52657d" stroke-width="2"/>
+    <rect x="140" y="38" width="108" height="66" rx="9" fill="#e6f4ed" stroke="#4c9270"/>
+    <text x="194" y="66" font-size="13" font-weight="700" fill="#20553b">Design</text><text x="194" y="84" font-size="13" fill="#20553b">scenarios</text>
+    <path d="M250 71 H263 M258 66 L264 71 L258 76" fill="none" stroke="#52657d" stroke-width="2"/>
+    <rect x="266" y="38" width="108" height="66" rx="9" fill="#fff1df" stroke="#c58a36"/>
+    <text x="320" y="66" font-size="13" font-weight="700" fill="#744716">Collect</text><text x="320" y="84" font-size="13" fill="#744716">evidence</text>
+    <path d="M376 71 H389 M384 66 L390 71 L384 76" fill="none" stroke="#52657d" stroke-width="2"/>
+    <rect x="392" y="38" width="108" height="66" rx="9" fill="#f1eafa" stroke="#9271b1"/>
+    <text x="446" y="66" font-size="13" font-weight="700" fill="#52366e">Analyze</text><text x="446" y="84" font-size="13" fill="#52366e">findings</text>
+    <path d="M502 71 H515 M510 66 L516 71 L510 76" fill="none" stroke="#52657d" stroke-width="2"/>
+    <rect x="518" y="38" width="108" height="66" rx="9" fill="#e8eef0" stroke="#71878e"/>
+    <text x="572" y="66" font-size="13" font-weight="700" fill="#344b52">Report</text><text x="572" y="84" font-size="13" fill="#344b52">limits</text>
+  </g>
+</svg>
