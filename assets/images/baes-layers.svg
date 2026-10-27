@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300" role="img" aria-labelledby="title desc">
+  <title id="title">BAES high-level layers</title>
+  <desc id="desc">Seven conceptual layers from Foundation at the base through Foundation Models, Engineering Models, Profiles, Policies, Compliance, to Reference Material.</desc>
+  <rect width="520" height="300" rx="14" fill="#f7f9fc"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="14">
+    <rect x="105" y="18" width="310" height="30" rx="6" fill="#e8eef0" stroke="#71878e"/><text x="260" y="38" fill="#344b52">Reference Material</text>
+    <rect x="105" y="55" width="310" height="30" rx="6" fill="#e7eefb" stroke="#5475ad"/><text x="260" y="75" fill="#1f3558">Compliance</text>
+    <rect x="105" y="92" width="310" height="30" rx="6" fill="#e6f4ed" stroke="#4c9270"/><text x="260" y="112" fill="#20553b">Policies</text>
+    <rect x="105" y="129" width="310" height="30" rx="6" fill="#fff1df" stroke="#c58a36"/><text x="260" y="149" fill="#744716">Profiles</text>
+    <rect x="105" y="166" width="310" height="30" rx="6" fill="#f1eafa" stroke="#9271b1"/><text x="260" y="186" fill="#52366e">Engineering Models</text>
+    <rect x="105" y="203" width="310" height="30" rx="6" fill="#e7eefb" stroke="#5475ad"/><text x="260" y="223" fill="#1f3558">Foundation Models</text>
+    <rect x="105" y="240" width="310" height="30" rx="6" fill="#dce5f3" stroke="#365a8a" stroke-width="1.5"/><text x="260" y="260" font-weight="700" fill="#1f3558">Foundation</text>
+  </g>
+</svg>
