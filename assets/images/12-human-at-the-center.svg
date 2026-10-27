@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+<title id="title">Human at the Center</title>
+<desc id="desc">BAES thematic vector icon: Human at the Center.</desc>
+<rect x="2" y="2" width="96" height="96" rx="14" fill="#f5f9ff"/>
+<circle cx="50" cy="30" r="11" fill="#1d4f91"/><path d="M30 72V61C30 49 39 43 50 43S70 49 70 61V72Z" fill="#1d4f91"/><circle cx="23" cy="43" r="7" fill="#2787c9"/><path d="M10 69V61C10 54 15 50 23 50 28 50 32 52 34 56" fill="#2787c9"/><circle cx="77" cy="43" r="7" fill="#2787c9"/><path d="M90 69V61C90 54 85 50 77 50 72 50 68 52 66 56" fill="#2787c9"/><path d="M20 24C32 8 61 7 79 24M72 18 80 25 71 27" fill="none" stroke="#20a78a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
