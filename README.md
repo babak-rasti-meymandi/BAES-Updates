@@ -19,7 +19,7 @@ Choose the path that best matches what you need:
 
 **Commercial consulting and research funding are separate paths.** Consulting fees are quoted after the commercial scope is defined. The separate research proposal has its own research question, planned deliverables, schedule, and indicative budget.
 
-![Human at the center](assets/images/12-human-at-the-center.svg)
+<img src="assets/images/12-human-at-the-center.svg" alt="Human at the center" width="96" />
 
 ## Purpose
 
@@ -41,7 +41,7 @@ This repository is intended to:
 
 BAES-Updates is not a replacement for BAES-Public and does not redefine the standard. Changes to the standard itself belong in the appropriate standard repository and should follow its own change-control expectations.
 
-![BAES high-level layers](assets/images/baes-layers.svg)
+<img src="assets/images/baes-layers.svg" alt="BAES high-level layers" width="96" />
 
 *Conceptual overview of the BAES layers; this diagram describes structure and is not evidence of independent validation.*
 
