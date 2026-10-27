@@ -1,6 +1,6 @@
 # BAES Consulting — Authority & Evidence Design
 
-![Human at the center](../assets/images/12-human-at-the-center.svg)
+<img src="../assets/images/12-human-at-the-center.svg" alt="Human at the center" width="96" />
 
 **Make human authorization explicit. Make engineering decisions traceable.**
 
@@ -41,7 +41,7 @@ This page is designed for a quick first read. Start with the summary below; the 
 
 ## The problem this addresses
 
-![Decision making](../assets/images/07-decision-making.svg)
+<img src="../assets/images/07-decision-making.svg" alt="Decision making" width="96" />
 
 AI-assisted engineering can produce changes that are technically plausible yet extend beyond the human's stated intent. A passing test suite, a completed code review, or a merge approval may be relevant evidence—but none automatically proves that every material behavior change was knowingly authorized.
 
@@ -57,7 +57,7 @@ The consulting starts with a specific organizational or engineering question. It
 
 ## What the consulting covers
 
-![Governance and compliance](../assets/images/08-governance-compliance.svg)
+<img src="../assets/images/08-governance-compliance.svg" alt="Governance and compliance" width="96" />
 
 The exact scope is agreed in advance. Depending on the problem, the work may cover:
 
@@ -73,7 +73,7 @@ This is advisory work. Implementation, system access, formal testing, or indepen
 
 ## What you can receive
 
-![Evaluation and evidence](../assets/images/10-evaluation-evidence.svg)
+<img src="../assets/images/10-evaluation-evidence.svg" alt="Evaluation and evidence" width="96" />
 
 Deliverables are selected to match the agreed question. Possible outputs include:
 
@@ -91,7 +91,7 @@ Not every engagement needs every deliverable. The final list and acceptance crit
 
 ## How an engagement works
 
-![Institutions and organizations](../assets/images/01-institutions-organizations.svg)
+<img src="../assets/images/01-institutions-organizations.svg" alt="Institutions and organizations" width="96" />
 
 **A straightforward, written-first process:**
 
@@ -138,7 +138,7 @@ Use or redistribution of public BAES materials remains subject to their applicab
 
 ## Current evidence and status
 
-![Progress and development](../assets/images/04-progress-development.svg)
+<img src="../assets/images/04-progress-development.svg" alt="Progress and development" width="96" />
 
 This is a **proposed consulting offering**, not a claim of a completed commercial product or independently validated service.
 
@@ -146,7 +146,7 @@ The public [Human-AI-Authorization-Evaluation project](https://github.com/babak-
 
 ## Start a written discussion
 
-![Collaboration and partnerships](../assets/images/09-collaboration-partnerships.svg)
+<img src="../assets/images/09-collaboration-partnerships.svg" alt="Collaboration and partnerships" width="96" />
 
 To begin, use the public contact route on the maintainer's [GitHub profile](https://github.com/babak-rasti-meymandi) or open a discussion in the relevant public project repository.
 
