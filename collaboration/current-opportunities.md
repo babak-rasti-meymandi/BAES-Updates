@@ -6,6 +6,8 @@ Each opportunity is subject to a clearly defined scope, agreed deliverables, and
 
 ## Opportunity 01 — Independent Evaluation of Human Authorization in AI-Assisted Work
 
+![Human at the center](../assets/images/12-human-at-the-center.svg)
+
 **Status:** Open for Discussion  
 **Proposed duration:** Six months  
 **Indicative funding request:** USD 30,000
@@ -17,6 +19,10 @@ Conduct an independent, evidence-based evaluation of how human intent, authoriza
 The evaluation will use a defined research question and selected scenarios from an agreed scientific, engineering, or other relevant professional domain in which AI participates in consequential work.
 
 The initial engagement will focus on a bounded evaluation rather than attempting to establish universal validity across all domains.
+
+### Research brief
+
+The [Evaluation Brief](evaluation-brief.md) provides the proposed research question, scenario design, comparison conditions, outcome criteria, six-month work plan, deliverables, indicative budget assumptions, and independence safeguards. The linked brief is a proposal, not a frozen protocol or completed study.
 
 ### Proposed Scope of Work
 
@@ -45,7 +51,7 @@ The precise deliverables and acceptance criteria will be agreed in advance.
 
 The initial proposal is approximately **USD 30,000 for six months**.
 
-This is an indicative amount, not a fixed quotation or an existing funding commitment. The final budget will depend on the agreed research question, scope, resources, access requirements, and deliverables.
+This is an indicative amount, not a fixed quotation or an existing funding commitment. The proposed line-item planning basis is described in the [Evaluation Brief](evaluation-brief.md). The final budget will depend on the agreed research question, scope, resources, access requirements, and deliverables.
 
 A smaller or larger engagement may be considered if it supports a coherent and clearly bounded research objective.
 
@@ -82,6 +88,7 @@ Relevant public resources:
 
 - [BAES-Public — Public standard and research foundation](https://github.com/babak-rasti-meymandi/BAES-Public)
 - [Human-AI-Authorization-Evaluation — Related independent evaluation project](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation)
+- [Evaluation Brief — Research design and proposed budget](evaluation-brief.md)
 
 No partnership, endorsement, or funding arrangement is implied by these links.
 
