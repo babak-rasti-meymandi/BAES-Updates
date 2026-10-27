@@ -2,6 +2,12 @@
 
 This directory describes public areas where research discussion or collaboration related to BAES may be useful.
 
+## Current opportunity
+
+See [Current Research and Collaboration Opportunities](current-opportunities.md) for the active proposal for discussion: a six-month independent evaluation of human authorization in AI-assisted work, with an indicative funding request of USD 30,000.
+
+The proposal is open for discussion only. It does not imply that funding, a partnership, or an endorsement has been secured.
+
 ## Areas of interest
 
 Potential discussions may include:
@@ -24,4 +30,4 @@ The project aims to make appropriate methods, test cases, and results public whe
 
 For now, use the public contact route listed on the maintainer's GitHub profile or open a discussion through the relevant public project repository. Do not treat a proposal or outreach message as evidence of acceptance, funding, or an established relationship.
 
-When a specific opportunity becomes active, add a separate dated file here with its scope, status, and public contact route.
+When additional specific opportunities become active, add separate files here with their scope, status, and public contact route.
