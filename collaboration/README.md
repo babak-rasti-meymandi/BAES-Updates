@@ -1,6 +1,6 @@
 # Collaboration
 
-![Collaboration and partnerships](../assets/images/09-collaboration-partnerships.svg)
+<img src="../assets/images/09-collaboration-partnerships.svg" alt="Collaboration and partnerships" width="96" />
 
 There are **two distinct ways to engage with BAES-related work**. Choose the one that matches your goal.
 
@@ -20,7 +20,7 @@ Neither path implies that a contract, partnership, endorsement, funding commitme
 
 ## Commercial consulting
 
-![Decision making](../assets/images/07-decision-making.svg)
+<img src="../assets/images/07-decision-making.svg" alt="Decision making" width="96" />
 
 The proposed consulting service helps organizations examine how human intent, authorization boundaries, delegated AI actions, engineering evidence, and human override are represented in a defined context.
 
@@ -30,7 +30,7 @@ It is advisory and scope-defined. The parties agree on the question, deliverable
 
 ## Research funding and collaboration
 
-![Universities and research](../assets/images/03-universities-research.svg)
+<img src="../assets/images/03-universities-research.svg" alt="Universities and research" width="96" />
 
 The current research proposal concerns an independent, bounded evaluation of human authorization in AI-assisted engineering. It has a separate research question, proposed method, deliverables, six-month schedule, and indicative funding request.
 
