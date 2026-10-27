@@ -17,3 +17,7 @@ Every research document should make its status clear. Separate hypotheses from o
 Do not duplicate the full standard here. Do not publish confidential BAES material, restricted source material, or licensed content that cannot be redistributed.
 
 For the separate empirical project focused on human authorization and semantic deviation, see [Human-AI-Authorization-Evaluation](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation).
+
+---
+
+[← Back to BAES-Updates Home](https://github.com/babak-rasti-meymandi/BAES-Updates/)
