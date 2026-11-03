@@ -11,7 +11,7 @@ Each opportunity is subject to a clearly defined scope, agreed deliverables, and
 **Current research phase:** Phase 1 — Active  
 **Next research phase:** Phase 2 — Deferred and Conditional  
 **Proposed planning envelope:** Approximately six months  
-**Indicative funding request:** USD 30,000
+**Indicative funding request:** USD 40,000
 
 ### Objective
 
@@ -135,7 +135,7 @@ The precise deliverables and acceptance criteria will be agreed in advance.
 
 ### Funding and Duration
 
-The initial proposal is approximately **USD 30,000 for a six-month planning envelope**.
+The initial proposal is approximately **USD 40,000 for a six-month planning envelope**.
 
 This is an indicative amount, not a fixed quotation, existing funding commitment, or guarantee that both research phases will be completed within six months.
 
