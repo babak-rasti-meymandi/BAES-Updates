@@ -2,16 +2,16 @@
 
 <img src="../assets/images/09-collaboration-partnerships.svg" alt="Collaboration and partnerships" width="96" />
 
-There are **two distinct ways to engage with BAES-related work**. Choose the one that matches your goal.
+There are **two distinct ways to engage with BAES-related work**. Choose the path that matches your objective.
 
 ## Choose your path
 
-| | Commercial consulting | Research funding or collaboration |
+| | Commercial consulting | Independent research sponsorship or collaboration |
 |---|---|---|
-| **Best fit** | An organization has a practical engineering question about authority, delegated AI action, approval, or evidence. | A funder or research partner wants to support or contribute to a bounded independent research project. |
-| **Main focus** | Context-specific advice and usable written artifacts. | Research question, evaluation method, evidence-packet construction, and reporting. |
+| **Best fit** | An organization has a practical engineering question about authority, delegated AI action, approval, or evidence. | A sponsor or research partner wants to support or contribute to a bounded, independent research project. |
+| **Main focus** | Context-specific advice and usable written artifacts. | Research questions, evaluation methods, evidence-packet construction, and reporting. |
 | **Outputs** | Agreed maps, specifications, evidence matrices, gap analysis, or recommendations. | Phase 1 evidence package and research report; human-review evidence and analysis only if conditional Phase 2 is conducted. |
-| **Budget approach** | Quoted after the commercial scope is defined. | Separate research proposal with an indicative budget and planning envelope. |
+| **Budget approach** | Quoted after the commercial scope is defined. | A separate research proposal with a defined budget, milestones, and payment terms. |
 | **Start here** | [**Authority & Evidence Consulting**](authority-and-evidence-consulting.md) | [Research and collaboration opportunities](current-opportunities.md) |
 
 Neither path implies that a contract, partnership, endorsement, funding commitment, or validation has already been secured.
@@ -26,15 +26,21 @@ The proposed consulting service helps organizations examine how human intent, au
 
 It is advisory and scope-defined. The parties agree on the question, deliverables, access requirements, confidentiality, intellectual-property terms, schedule, and fee before work begins.
 
+Consulting engagements are separate from independent research sponsorship. A consulting fee does not constitute research funding, and research sponsorship does not automatically include consulting services.
+
 **Read:** [BAES Consulting — Authority & Evidence Design](authority-and-evidence-consulting.md)
 
-## Research funding and collaboration
+## Independent research sponsorship and collaboration
 
 <img src="../assets/images/03-universities-research.svg" alt="Universities and research" width="96" />
 
 The current research proposal concerns an independent, bounded evaluation of human authorization in AI-assisted engineering.
 
-The research is organized into two distinct phases:
+The proposed programme has an approximately six-month planning horizon and an indicative total research budget of **USD 40,000**. Its scope, milestones, payment schedule, and any conditional activities are defined in the separate research proposal.
+
+The proposed budget is for the research programme. It is not a valuation or purchase price for BAES, its intellectual property, or its future commercial potential.
+
+### Research phases
 
 **Phase 1 — Evidence-Packet Construction and Investigator-Side Assessment**
 
@@ -62,6 +68,8 @@ No human reviewers have been recruited or assessed, and no human-review data hav
 
 The public S01 scenario is not suitable for blinded confirmatory testing because its behavior and boundary-test result are already public.
 
+Phase 2 is not an unconditional commitment. Its execution, scope, and associated budget remain subject to the required prerequisites and a separate written agreement.
+
 ### Research resources
 
 - [Current Research and Collaboration Opportunities](current-opportunities.md)
@@ -71,7 +79,25 @@ The public S01 scenario is not suitable for blinded confirmatory testing because
 
 The research brief is a proposal, not a completed study, frozen protocol, or claim that the method has been independently validated.
 
-The proposed USD 40,000 budget and approximately six-month planning envelope relate to the research project, not the commercial consulting service. Phase 2 activities and their associated costs remain conditional; they are not guaranteed deliverables or committed expenditures.
+Research sponsorship supports the agreed research scope. It does not, by itself, transfer BAES ownership, grant an intellectual-property licence, create exclusive rights, or give a sponsor authority over research findings, evaluation criteria, or BAES standardization decisions. Any recognition, access, institutional-use rights, or other permissions require separate written terms.
+
+## Potential future collaboration pathways
+
+Subject to research maturity, independent assessment, resources, and separate agreements, further collaboration may be explored in three areas:
+
+**1. Institutional Access and Licensing**
+
+Potential institutional access, early access, and permitted organizational use of BAES materials may be considered under separately defined licensing terms. Access does not imply ownership or unrestricted redistribution.
+
+**2. Professional Education and Development**
+
+Future activities may include professional education, structured training, train-the-trainer programmes, and curriculum development. Any instructor, programme leadership, or delivery role would require a separate agreement defining responsibilities, duration, compensation, and intellectual-property arrangements.
+
+**3. Certification and Organizational Assessment**
+
+A future assessment or certification pathway may be explored if the necessary methodology, governance, independence, and assessment controls are established. No current BAES certification or accredited certification service is implied.
+
+These are potential future pathways, not included deliverables of the current research programme and not automatically granted through sponsorship.
 
 ## Areas of interest
 
@@ -84,6 +110,14 @@ Depending on the path and agreed scope, discussions may include:
 - Academic discussion, independent review, or research collaboration.
 
 These are areas of interest, not claims of an existing partnership or a request for an organization to endorse BAES.
+
+## Independence, intellectual property, and engagement terms
+
+BAES is developed as an independent engineering standard. Research findings, evaluation criteria, and standardization decisions must remain independent of sponsor or partner preferences.
+
+The creator retains ownership of BAES and its pre-existing intellectual property. Research outputs, permitted uses, institutional access, recognition, licensing, and any exclusivity arrangements must be defined separately in writing.
+
+No engagement guarantees a favorable research result, endorsement, certification outcome, or exclusive commercial right.
 
 ## Contact and next steps
 
