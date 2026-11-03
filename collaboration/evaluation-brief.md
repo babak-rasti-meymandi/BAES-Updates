@@ -194,11 +194,26 @@ If Phase 2 prerequisites are not met, the project will remain within Phase 1 sco
 
 ---
 
-## 7. Proposed Funding
+## 7. Proposed Funding and Payment Structure
 
-**Proposed funding envelope: USD 40,000**
+**Proposed programme funding: USD 40,000**
 
-This is a preliminary funding proposal. The allocation between phases should reflect the actual scope authorized and undertaken.
+**Proposed planning envelope: approximately six months.**
+
+The proposed funding supports the independent research programme. It is not a purchase price for BAES, a valuation of its intellectual property, or an automatic grant of ownership or exclusive rights.
+
+The proposed payment schedule is:
+
+| Payment stage | Amount | Proposed payment condition |
+|---|---:|---|
+| Initial mobilization payment | USD 18,000 | Upon execution of the agreed agreement and before commencement of the programme |
+| Intermediate milestone payment | USD 12,000 | Upon completion and acceptance of the agreed intermediate deliverables |
+| Final milestone payment | USD 10,000 | Upon completion and acceptance of the agreed final deliverables |
+| **Total** | **USD 40,000** | |
+
+The initial mobilization payment forms part of the total programme funding and is not an additional fee.
+
+The milestone definitions, deliverable acceptance procedure, payment deadlines, and applicable administrative arrangements will be specified in the final agreement.
 
 The proposed budget should distinguish between:
 
@@ -220,11 +235,13 @@ The proposed budget should distinguish between:
 
 Phase 2 expenses should be incurred only if its prerequisites are satisfied and the study is authorized to proceed. Funds allocated to conditional activities should not automatically be treated as committed expenditures or silently reallocated.
 
-The proposed funding supports independent research and evaluation. It does not purchase a predetermined result, endorsement, certification, or favorable assessment.
+If Phase 2 cannot proceed, any resulting change to the scope, deliverables, or allocation of funds will require an explicit written agreement between the parties.
+
+The proposed funding is for the agreed research programme only. Any broader BAES licensing, institutional-use rights, exclusive rights, or professional education arrangements require separate written agreements.
 
 ---
 
-## 8. Independence and Research Integrity
+## 8. Independence, Intellectual Property, and Research Integrity
 
 The evaluation is intended to remain independent of the organizations or frameworks being assessed.
 
@@ -234,7 +251,18 @@ Funding or collaboration must not grant a sponsor authority to:
 - Change evaluation criteria without documented methodological justification;
 - Suppress negative or inconclusive results;
 - Require a favorable comparison;
-- Claim ownership of the research conclusions merely by providing financial support.
+- Claim ownership of the research conclusions merely by providing financial support;
+- Exercise control over BAES standardization decisions.
+
+Ownership of BAES and its underlying intellectual property remains with its creator unless expressly agreed otherwise in a separate written instrument.
+
+For contractual clarity, the parties should distinguish between:
+
+- **Background intellectual property:** BAES, its existing architecture, principles, models, and pre-existing materials;
+- **Programme outputs:** Reports, evidence indexes, assessments, and other deliverables specifically produced within the agreed research scope;
+- **Permitted use:** The rights granted to a funding or institutional partner to use specified programme outputs and materials.
+
+Any licence, publication, confidentiality, ownership, or permitted-use terms must be agreed in writing before the relevant activities begin.
 
 Research findings will be reported according to the evidence obtained, including limitations, unresolved questions, and any negative or inconclusive outcomes.
 
@@ -271,6 +299,8 @@ Potential forms of collaboration include:
 - Support for the conditional Phase 2 study, if its prerequisites are met;
 - Access to appropriate independent reviewers or research collaborators.
 
+An institutional coordination focal point may be designated by a collaborating organization to facilitate communication and coordination. This does not imply the creation of a new research or technical position.
+
 The immediate priority is to complete a defensible Phase 1 evidence package. Any subsequent human-participant study will depend on methodological readiness, access controls, reviewer availability, and appropriate research arrangements.
 
 ---
@@ -289,3 +319,7 @@ The following project documents define the current research scope and status:
 **Research Lead:** Babak Rasti M.  
 **Project:** BAES Independent Evaluation Pilot  
 **Current Status:** Phase 1 active; Phase 2 deferred and conditional
+
+---
+
+*This document is an independent research proposal. It does not represent a completed human-participant study, independent validation, certification, secured funding, or an existing institutional partnership.*
