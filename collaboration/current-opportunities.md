@@ -2,16 +2,15 @@
 
 This page lists current opportunities to fund, evaluate, and collaborate on the Babak AI Engineering Standard (BAES).
 
-Each opportunity is subject to a clearly defined scope, agreed deliverables, and transparent terms. Listing an opportunity does not imply an existing partnership, funding commitment, or endorsement.
+Each opportunity is subject to a clearly defined scope, agreed deliverables, and transparent terms. Listing an opportunity does not imply an existing partnership, funding commitment, endorsement, or transfer of intellectual property.
 
 ## Opportunity 01 — Independent Evaluation of Human Authorization in AI-Assisted Engineering
-
 
 **Status:** Open for Discussion  
 **Current research phase:** Phase 1 — Active  
 **Next research phase:** Phase 2 — Deferred and Conditional  
-**Proposed planning envelope:** Approximately six months  
-**Indicative funding request:** USD 40,000
+**Proposed programme duration:** Approximately six months  
+**Proposed programme funding:** USD 40,000
 
 ### Objective
 
@@ -133,11 +132,22 @@ Reviewer responses and human-performance findings are not current deliverables a
 
 The precise deliverables and acceptance criteria will be agreed in advance.
 
-### Funding and Duration
+### Funding, Payment Structure, and Duration
 
-The initial proposal is approximately **USD 40,000 for a six-month planning envelope**.
+The proposed funding for the independent research programme is **USD 40,000**, with an approximate six-month planning envelope.
 
-This is an indicative amount, not a fixed quotation, existing funding commitment, or guarantee that both research phases will be completed within six months.
+The proposed payment schedule is:
+
+| Payment stage | Amount | Proposed payment condition |
+|---|---:|---|
+| Initial mobilization payment | USD 18,000 | Upon execution of the agreed agreement and before commencement of the programme |
+| Intermediate milestone payment | USD 12,000 | Upon completion and acceptance of the agreed intermediate deliverables |
+| Final milestone payment | USD 10,000 | Upon completion and acceptance of the agreed final deliverables |
+| **Total** | **USD 40,000** | |
+
+The milestone definitions, deliverable acceptance procedure, payment deadlines, and applicable administrative arrangements will be specified in the final agreement.
+
+The initial mobilization payment forms part of the total programme funding; it is not an additional fee.
 
 The proposed budget distinguishes between:
 
@@ -160,9 +170,11 @@ The proposed budget distinguishes between:
 
 Phase 2 expenses will be incurred only if the relevant prerequisites are satisfied and the study is authorized to proceed. Conditional funds should not automatically be treated as committed expenditures or silently reallocated.
 
-The final budget will depend on the agreed scope, resources, access requirements, and deliverables.
+If Phase 2 cannot proceed, any resulting change to the scope, deliverables, or allocation of funds will require an explicit written agreement between the parties.
 
-A smaller or larger engagement may be considered if it supports a coherent and clearly bounded research objective.
+The USD 40,000 amount is a proposed programme funding figure, not a purchase price for BAES, a valuation of its intellectual property, or an automatic grant of ownership or exclusive rights.
+
+The final agreement will define the scope, resources, access requirements, deliverables, and payment obligations.
 
 ### Collaboration Model
 
@@ -173,9 +185,60 @@ A funding or research partner may:
 - Provide authorized access to appropriate systems, test environments, or evaluation materials;
 - Support the active Phase 1 research;
 - Help identify independent reviewers for the conditional Phase 2 study;
-- Review the agreed scope, milestones, and deliverables.
+- Review the agreed scope, milestones, and deliverables;
+- Designate an institutional coordination focal point to facilitate communication and coordination.
 
 Any access to systems or confidential information will require appropriate authorization and agreed handling conditions.
+
+### Institutional Recognition and Research Sponsorship
+
+Subject to a separate written agreement, an organization supporting the programme may be recognized as:
+
+**Official Research Sponsor of the agreed BAES research and development programme.**
+
+The recognition may include:
+
+- Acknowledgment of the sponsor in selected programme materials and the final research report;
+- Inclusion of the sponsor's approved name or logo on the agreed sponsorship or programme information page;
+- Appropriate acknowledgment in selected public presentations or research summaries.
+
+The exact recognition arrangements, use of names and logos, and publication permissions must be approved in writing.
+
+Sponsor recognition does not imply ownership of BAES, control over its standardization decisions, endorsement of every technical provision, or authority over independent research conclusions.
+
+### Early Access and Institutional Use
+
+Subject to a separate written licence, an institutional partner may receive:
+
+- Early access to agreed BAES materials and selected development outputs;
+- Permission to use specified materials for internal research, technical assessment, and agreed institutional applications;
+- An opportunity to discuss broader institutional licensing arrangements.
+
+The scope, duration, permitted users, redistribution rights, confidentiality obligations, and any fees for institutional use will be defined in the applicable licence.
+
+Exclusive rights, if considered, require a separate negotiation and agreement defining their scope, field of use, territory, duration, covered materials, future versions, modification rights, and redistribution conditions.
+
+No exclusive or unrestricted licence is included automatically in the USD 40,000 research programme.
+
+### Future Professional Education and Development
+
+A future collaboration may explore a BAES professional education programme, potentially including:
+
+- Professional training courses;
+- Train-the-Trainer programmes;
+- Institutional workshops;
+- Curriculum and assessment development;
+- A structured professional certification pathway.
+
+These are future opportunities, not existing certified services or guaranteed programme deliverables.
+
+Subject to a separate agreement, the programme may include a two-year professional engagement in which the BAES creator serves as:
+
+**BAES Lead Instructor and Programme Director.**
+
+The responsibilities, course schedule, compensation, travel requirements, programme authority, assessment arrangements, and termination conditions would be negotiated separately.
+
+Any future certification pathway would require defined assessment criteria and an appropriate, credible certification governance arrangement. Sponsorship alone does not confer certification authority.
 
 ### Independence, Ownership, and Transparency
 
@@ -183,7 +246,15 @@ The evaluation must be conducted and reported according to the evidence obtained
 
 Funding does not guarantee a favorable result or permit a sponsor to dictate research conclusions, alter evaluation criteria without documented methodological justification, or suppress negative or inconclusive findings.
 
-The engagement does not automatically transfer ownership of BAES or grant unrestricted rights to its use. Intellectual property, licensing, publication, confidentiality, and permitted use of project outputs must be agreed in writing before the engagement begins.
+Ownership of BAES and its underlying intellectual property remains with its creator unless expressly agreed otherwise in a separate written instrument.
+
+The research agreement will distinguish between:
+
+- **Background intellectual property:** BAES, its existing architecture, principles, models, and pre-existing materials;
+- **Programme outputs:** Reports, evidence indexes, assessments, and other deliverables specifically produced within the agreed research scope;
+- **Permitted use:** The rights granted to the sponsor or institutional partner to use specified programme outputs and materials.
+
+Any licence, publication, confidentiality, ownership, or permitted-use terms must be agreed in writing before the relevant activities begin.
 
 Public reporting will distinguish observed findings from assumptions, interpretations, and unresolved questions.
 
@@ -192,6 +263,8 @@ Public reporting will distinguish observed findings from assumptions, interpreta
 This opportunity provides a way to investigate practical questions about human authority and authorized action in AI-assisted engineering through a bounded research project with documented methods, evidence, and limitations.
 
 The immediate value to a partner is participation in the construction and assessment of a structured evidence-based research approach.
+
+An institutional partner may also have the opportunity to establish a longer-term relationship with BAES through separate licensing, research, and professional education arrangements.
 
 Any conclusions about human reviewer performance or the comparative effectiveness of review approaches depend on the successful completion of the separate Phase 2 study.
 
@@ -204,8 +277,11 @@ Organizations interested in funding, hosting, or contributing to this research a
 - The active Phase 1 research scope;
 - Potential research or domain collaboration;
 - Deliverables and evidence requirements;
-- The indicative budget and planning envelope;
+- The proposed USD 40,000 programme funding and payment milestones;
 - Possible support for the conditional Phase 2 study;
+- Institutional recognition and sponsorship arrangements;
+- Early access and institutional licensing;
+- Future professional education and development opportunities;
 - Intellectual property, confidentiality, and publication terms.
 
 Relevant public resources:
