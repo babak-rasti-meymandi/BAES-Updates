@@ -71,7 +71,7 @@ The public S01 scenario is not suitable for blinded confirmatory testing because
 
 The research brief is a proposal, not a completed study, frozen protocol, or claim that the method has been independently validated.
 
-The proposed USD 30,000 budget and approximately six-month planning envelope relate to the research project, not the commercial consulting service. Phase 2 activities and their associated costs remain conditional; they are not guaranteed deliverables or committed expenditures.
+The proposed USD 40,000 budget and approximately six-month planning envelope relate to the research project, not the commercial consulting service. Phase 2 activities and their associated costs remain conditional; they are not guaranteed deliverables or committed expenditures.
 
 ## Areas of interest
 
