@@ -196,7 +196,7 @@ If Phase 2 prerequisites are not met, the project will remain within Phase 1 sco
 
 ## 7. Proposed Funding
 
-**Proposed funding envelope: USD 30,000**
+**Proposed funding envelope: USD 40,000**
 
 This is a preliminary funding proposal. The allocation between phases should reflect the actual scope authorized and undertaken.
 
