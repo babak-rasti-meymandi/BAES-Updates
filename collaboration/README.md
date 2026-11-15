@@ -81,6 +81,14 @@ The research brief is a proposal, not a completed study, frozen protocol, or cla
 
 Research sponsorship supports the agreed research scope. It does not, by itself, transfer BAES ownership, grant an intellectual-property licence, create exclusive rights, or give a sponsor authority over research findings, evaluation criteria, or BAES standardization decisions. Any recognition, access, institutional-use rights, or other permissions require separate written terms.
 
+### BAES name and special sponsor recognition
+
+The current name of BAES is not necessarily its final or unchangeable name. The present name records the origin and current stage of the standard; a future name may be considered if the work develops through broader institutional and professional participation.
+
+A sponsor formally recognized as a **Founding Sponsor** or **Principal Institutional Partner** may submit a formal proposal for the future naming of BAES. That proposal will receive substantial weight and priority in the review and decision-making process.
+
+This is a meaningful proposal right, not an automatic right to rename BAES. A sponsor does not acquire ownership, intellectual-property rights, a veto, or control over BAES architecture, research findings, evaluation criteria, or standardization decisions through this recognition. Any final name change remains subject to the applicable BAES approval process and must be recorded in separate written terms. The designation and its basis are not automatic consequences of being the first or largest financial contributor.
+
 ## Potential future collaboration pathways
 
 Subject to research maturity, independent assessment, resources, and separate agreements, further collaboration may be explored in three areas:
