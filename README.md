@@ -19,6 +19,8 @@ Choose the path that best matches what you need:
 
 **Commercial consulting and research funding are separate paths.** Consulting fees are quoted after the commercial scope is defined. The separate research proposal has its own research question, planned deliverables, schedule, and indicative budget.
 
+The current BAES name is not necessarily final or unchangeable. The conditions under which a specially recognized sponsor may propose a future name are described in [Collaboration — BAES name and special sponsor recognition](collaboration/README.md#baes-name-and-special-sponsor-recognition).
+
 <img src="assets/images/12-human-at-the-center.svg" alt="Human at the center" width="96" />
 
 ## Purpose
