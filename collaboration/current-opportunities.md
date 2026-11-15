@@ -4,6 +4,8 @@ This page lists current opportunities to fund, evaluate, and collaborate on the 
 
 Each opportunity is subject to a clearly defined scope, agreed deliverables, and transparent terms. Listing an opportunity does not imply an existing partnership, funding commitment, endorsement, or transfer of intellectual property.
 
+The current name of BAES is not necessarily its final or unchangeable name. A sponsor formally designated as a Founding Sponsor or Principal Institutional Partner may submit a formal proposal for future naming; that proposal will receive substantial weight and priority in the review and decision-making process. This is a proposal right, not unilateral naming authority, and does not transfer ownership or control of BAES. Any such recognition and the final approval process must be documented separately.
+
 ## Opportunity 01 — Independent Evaluation of Human Authorization in AI-Assisted Engineering
 
 **Status:** Open for Discussion  
