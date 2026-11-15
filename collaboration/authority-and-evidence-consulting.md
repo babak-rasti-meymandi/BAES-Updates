@@ -116,6 +116,8 @@ The separate research proposal requests an indicative **USD 30,000 over six mont
 
 BAES is an independently developed, technology-neutral standard. Consulting recommendations will be based on the agreed context and the evidence available.
 
+A commercial consulting engagement is separate from independent research sponsorship. It does not, by itself, confer **Founding Sponsor** or **Principal Institutional Partner** status, or the special right to submit a future BAES naming proposal. Such recognition, if considered, must be separately and expressly designated in written terms under the applicable BAES process.
+
 - No favorable conclusion is guaranteed.
 - This service is **not certification, regulatory approval, or a guarantee of AI-system safety**.
 - Advice does not replace the client's engineering judgment, legal advice, or required organizational approvals.
