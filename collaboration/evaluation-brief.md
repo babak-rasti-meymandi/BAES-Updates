@@ -14,7 +14,7 @@
 
 The BAES Independent Evaluation Pilot examines whether an engineering standard can help reconstruct the relationship between human intent, authorized tasks, AI-proposed or AI-executed actions, available evidence, and human decisions during AI-assisted engineering work.
 
-The project uses an evidence-based comparative approach involving:
+The proposed comparative scope uses an evidence-based approach involving:
 
 - Babak AI Engineering Standard (BAES)
 - NIST AI Risk Management Framework (AI RMF 1.0)
@@ -150,6 +150,8 @@ The comparative assessment considers:
 
 The comparative scope includes BAES, NIST AI RMF 1.0, and ISO/IEC 42001:2023.
 
+**Current source and version boundary:** The existing Phase 1 mapping is a criterion-conditioned, source-limited assessment of public BAES text and the NIST AI RMF 1.0 Core. ISO/IEC 42001:2023 remains UL at clause level because the complete final-edition clause text has not been examined under an authorized access route. No clause-level ISO conclusion is claimed. The historical BAES text mapping used the public source snapshot examined on 2026-11-02. BAES-Public published an updated Foundation Status & Maturity Statement on 2026-11-26; any refreshed mapping against the current public version must be identified and reported separately, without retroactively changing the historical ratings.
+
 The assessment will use publicly available materials and permitted public previews or crosswalks. It will not reproduce or rely on unauthorized copies of licensed standards text. Where the available material does not support a clause-level assessment, the relevant item will remain unreviewed or explicitly limited.
 
 No composite score will be used to imply an overall ranking of the frameworks.
@@ -190,11 +192,11 @@ This is a preliminary planning estimate, not a commitment that Phase 2 will begi
 
 | Period | Proposed activity |
 |---|---|
-| Months 1–2 | Phase 1 evidence stabilization, packet construction, and evidence indexing |
-| Months 2–3 | C1–C20 mapping, investigator-side audit, and ambiguity register |
-| Month 4 | Comparative assessment and Phase 1 reporting |
+| Months 1–2 | Finalize and freeze the S01 evidence packets, baseline instruction, and evidence index |
+| Months 2–3 | Complete remaining scenario/criteria consistency review and independent second-coder verification, if available |
+| Month 4 | Finalize the source-bounded comparative synthesis, limitations, and Phase 1 report |
 | Month 5 | Phase 2 feasibility review and prerequisite completion, if possible |
-| Month 6 | Conditional Phase 2 preparation or continuation of Phase 1 reporting and refinement |
+| Month 6 | Conditional Phase 2 preparation or continued Phase 1 finalization if prerequisites are not met |
 
 If Phase 2 prerequisites are not met, the project will remain within Phase 1 scope. The timeline will be revised accordingly rather than treating human evaluation as an assumed outcome.
 
