@@ -69,7 +69,7 @@ The unit of assessment in Phase 1 is the evidence packet and its records, not hu
 
 Phase 2 is a proposed human-participant study. It is not part of the currently active assessment.
 
-The proposed design uses a held-out scenario, HDA-01, and a 2×2 between-reviewer comparison:
+Any later human-review study would require a separately designed, held-out scenario and a protocol frozen before recruitment. The public proposal does not disclose non-public scenario details or reviewer-allocation design.
 
 | Condition | Review approach | Decision evidence |
 |---|---|---|
@@ -85,7 +85,7 @@ The public S01 scenario is not suitable for blinded confirmatory testing because
 Phase 2 can proceed only after:
 
 - Phase 1 evidence packets and the evidence index are stabilized;
-- HDA-01 and its associated materials are finalized and frozen;
+- Any non-public study materials are finalized, versioned, and protected by verified access controls;
 - Private repository access controls and collaborator permissions are verified;
 - The study protocol, reviewer assignment, instructions, coding, exposure rules, consent, privacy, and data-retention arrangements are defined and frozen;
 - Independent reviewers are available.
