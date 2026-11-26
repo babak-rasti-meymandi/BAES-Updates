@@ -110,7 +110,7 @@ No work begins until the scope and terms have been agreed. Initial discussion ca
 
 The quotation will reflect the agreed deliverables, expected effort, complexity, required access, schedule, and any specialist review or testing. A bounded engagement may be suitable where the question and outputs can be clearly specified. Larger engagements may be divided into phases and quoted separately.
 
-The separate research proposal requests an indicative **USD 30,000 over six months** for a proposed independent evaluation. That is a research funding estimate—not the price of this consulting service, a rate card, or a commitment to fund or undertake commercial work.
+The separate research proposal requests an indicative **USD 40,000 over approximately six months** for a proposed independent evaluation. That is a research funding estimate—not the price of this consulting service, a rate card, or a commitment to fund or undertake commercial work.
 
 ## Independence and limitations
 
