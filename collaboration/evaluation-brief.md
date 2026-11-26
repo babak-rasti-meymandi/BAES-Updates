@@ -100,7 +100,7 @@ Phase 1 can establish whether the constructed evidence is internally coherent, t
 
 Phase 2 is a proposed human-participant study. It is not part of the currently active assessment.
 
-The proposed design is a 2×2 between-reviewer comparison using a held-out scenario, HDA-01, rather than the publicly disclosed S01 scenario.
+Any later human-review phase would require a separately designed and held-out scenario rather than the publicly disclosed S01 scenario. Its detailed design and materials are not part of this public brief.
 
 The four proposed conditions are:
 
@@ -115,7 +115,7 @@ Each reviewer would receive one evidence packet only.
 
 The public S01 scenario is not eligible for blinded confirmatory testing because its behavior and boundary-test result are publicly available. It may be used for exploratory usability work, but it must not be presented as a blinded confirmatory case.
 
-HDA-01 is currently a private draft. It has not been frozen or presented to reviewers.
+No non-public scenario is represented here as frozen, released, or presented to reviewers.
 
 **Prerequisites before Phase 2 can begin:**
 
@@ -289,7 +289,7 @@ The current research status is:
 - No human assessment has been conducted.
 - No human-review data or comparative reviewer-performance findings exist.
 - The research protocol is version 0.4.1-draft and has not been frozen or preregistered.
-- HDA-01 remains a private draft and has not been frozen or presented to reviewers.
+- Any non-public scenario materials remain outside this public brief and must pass a separate readiness and access-control review before use.
 - Access controls for the private held-out scenario must be verified before any reviewer recruitment.
 
 These limitations are part of the current research status and will be updated only when supported by documented evidence.
