@@ -11,6 +11,7 @@ Choose the path that best matches what you need:
 | If you want to… | Start here |
 |---|---|
 | Understand the BAES standard | [BAES-Public](https://github.com/babak-rasti-meymandi/BAES-Public) |
+| Review the current Foundation maturity and validation boundaries | [BAES Foundation Status & Maturity](https://github.com/babak-rasti-meymandi/BAES-Public/blob/main/06_BAES_Foundation_Status_and_Maturity.md) |
 | Discuss a practical engineering problem involving human authority, AI delegation, or evidence | [**Authority & Evidence Consulting**](collaboration/authority-and-evidence-consulting.md) |
 | Explore research funding or independent research collaboration | [Research and collaboration opportunities](collaboration/current-opportunities.md) |
 | Read the proposed research design and budget | [Independent Evaluation — Research Brief](collaboration/evaluation-brief.md) |
@@ -37,7 +38,7 @@ This repository is intended to:
 
 | Repository | Role |
 |---|---|
-| [BAES-Public](https://github.com/babak-rasti-meymandi/BAES-Public) | The stable public reference for the BAES standard. |
+| [BAES-Public](https://github.com/babak-rasti-meymandi/BAES-Public) | The stable public reference for the BAES standard, including its [Foundation Status & Maturity Statement](https://github.com/babak-rasti-meymandi/BAES-Public/blob/main/06_BAES_Foundation_Status_and_Maturity.md). |
 | **BAES-Updates** | Public updates, activity records, research notes, and collaboration information related to BAES. |
 | [Human-AI-Authorization-Evaluation](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation) | A separate project for empirical evaluation of human authorization and semantic deviation in AI-assisted engineering. |
 
