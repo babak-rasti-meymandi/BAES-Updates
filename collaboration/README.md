@@ -6,6 +6,8 @@ There are **two distinct ways to engage with BAES-related work**. Choose the pat
 
 ## Choose your path
 
+For the current public description of BAES maturity, including the distinction between its established Foundation, higher-layer development, and independent validation, see the [BAES Foundation Status & Maturity Statement](https://github.com/babak-rasti-meymandi/BAES-Public/blob/main/06_BAES_Foundation_Status_and_Maturity.md).
+
 | | Commercial consulting | Independent research sponsorship or collaboration |
 |---|---|---|
 | **Best fit** | An organization has a practical engineering question about authority, delegated AI action, approval, or evidence. | A sponsor or research partner wants to support or contribute to a bounded, independent research project. |
