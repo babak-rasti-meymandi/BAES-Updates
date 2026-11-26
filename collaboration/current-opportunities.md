@@ -18,7 +18,7 @@ The current name of BAES is not necessarily its final or unchangeable name. A sp
 
 Support an independent, evidence-based evaluation of how human intent, authorization, delegated AI actions, available evidence, and human decisions can be represented and reconstructed in AI-assisted engineering work.
 
-The research compares BAES with selected established frameworks, including NIST AI RMF 1.0 and ISO/IEC 42001:2023.
+The proposed comparative scope includes BAES, NIST AI RMF 1.0, and ISO/IEC 42001:2023. Existing Phase 1 work is a bounded, criterion-conditioned assessment of public BAES text and the NIST AI RMF 1.0 Core. ISO/IEC 42001:2023 remains unreviewed at clause level (UL); no comprehensive comparison, conformity finding, or framework ranking is claimed.
 
 The evaluation is designed to permit positive, negative, mixed, or inconclusive findings. It does not assume that BAES performs better than the comparison frameworks.
 
@@ -161,14 +161,14 @@ The initial mobilization payment forms part of the total programme funding; it i
 
 The proposed budget distinguishes between:
 
-**Phase 1 — Active Research Work**
+**Phase 1 — Completion and Finalization Work**
 
-- Research and evidence-packet construction;
-- Scenario and evidence stabilization;
-- Evidence indexing and criteria mapping;
-- Comparative assessment;
-- Traceability and reconstruction audit;
-- Documentation and reporting.
+- Final stabilization and version control of the S01 evidence packets and evidence index;
+- Remaining scenario and criteria consistency review;
+- Independent second-coder verification, if an appropriate reviewer is available;
+- Source-bounded comparative synthesis and explicit treatment of access-limited material;
+- Confidentiality, intellectual-property, licensing, privacy, and third-party-rights review;
+- Final documentation and reporting.
 
 **Phase 2 — Conditional Research Work**
 
