@@ -659,7 +659,7 @@ It does not:
 - alter the seven-layer BAES structure;
 - create a new BAES policy or compliance requirement;
 - claim approval or adoption by BAES;
-- modify BAES-Public or BAES-SECRET.
+- modify BAES-Public or any confidential BAES repository.
 
 The biological and mathematical source concepts discussed here are research motivations only. Their inclusion does not establish that the corresponding mechanisms exist in AI systems or that their parameters transfer to AI engineering.
 
