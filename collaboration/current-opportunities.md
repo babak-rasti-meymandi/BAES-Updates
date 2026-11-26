@@ -32,29 +32,36 @@ The project is organized into two distinct phases.
 
 **Status: Active**
 
-The current work examines whether constructed evidence packets are internally coherent, traceable, and sufficiently informative to support reconstruction of authorization-related events and decisions.
+Phase 1 remains active, but substantial investigator-side work has already been recorded. The current funding opportunity is for completion, stabilization, source/criteria review, and appropriately bounded reporting—not for presenting completed investigator-side work as a future independent evaluation.
 
-The active scope includes:
+**Completed to date (investigator-side):**
 
-1. Stabilizing the public synthetic S01 scenario and its C99 complete_groups technical baseline.
-2. Constructing evidence variants representing explicit, traceable authorization and artifact approval where specific informed authorization remains unresolved.
-3. Preparing an evidence index and supporting traceability references.
-4. Mapping the preserved evaluation criteria C1–C20.
-5. Conducting an investigator-side traceability and reconstruction audit.
-6. Maintaining an ambiguity register documenting unresolved interpretations and evidential limitations.
-7. Preparing a comparative assessment of BAES, NIST AI RMF 1.0, and ISO/IEC 42001:2023 using permitted source material.
+- Constructed the public synthetic S01-A and S01-B evidence variants, with common technical artifacts and distinct authorization records.
+- Completed an investigator-side documentary reconstruction audit and recorded criterion-level assessments using the recovered historical C1–C20 set.
+- Recorded packet-local technical reproduction and its exact source-version limitations.
+- Produced an interim comparative synthesis with separate framework-text coverage, event-evidence sufficiency, and residual-ambiguity axes, including investigator-side adversarial calibration.
+
+These are investigator-side records only. They are not independent second-coder verification, human-review results, or a frozen or independently validated evaluation. The original date/version provenance of the recovered historical C1–C20 set remains unverified.
+
+**Remaining / planned Phase 1 work includes:**
+
+1. Stabilizing and freezing the S01 evidence packets, baseline instruction, and evidence index.
+2. Completing the remaining scenario and criteria consistency review; keep the recovered historical C1–C20 set distinct from the separate Proposed v0.1 criteria.
+3. Obtaining independent second-coder verification if an appropriate reviewer is available. If not, report the findings explicitly as investigator-side work.
+4. Finalizing the bounded comparative synthesis. The existing NIST analysis is limited to the AI RMF 1.0 Core. ISO/IEC 42001:2023 remains unreviewed at clause level (UL) because the complete final-edition clause text has not been examined under an authorized access route; no clause-level ISO conclusion is claimed.
+5. Completing confidentiality, intellectual-property, licensing, privacy, and third-party-rights review of the public artifacts. The review to date is targeted, not exhaustive.
+6. Completing the Phase 1 report and a limitations-first public summary.
 
 The unit of assessment in Phase 1 is the evidence packet and its records, not human reviewer performance.
 
-**Expected Phase 1 outputs:**
+**Expected Phase 1 completion outputs:**
 
-- Stabilized evidence packets and variants;
-- Evidence index;
-- C1–C20 mapping;
-- Investigator-side traceability and reconstruction audit;
-- Ambiguity register;
-- Documented findings and limitations;
-- Phase 1 research report.
+- Finalized evidence packets and evidence index, building on the existing investigator-side artifacts;
+- Finalized mapping against the recovered historical C1–C20 set, with its unresolved provenance limitation stated;
+- Updated investigator-side reconstruction and evidence-sufficiency assessment, with independent-review status explicit;
+- Updated ambiguity register;
+- Bounded comparative synthesis, with ISO/IEC 42001:2023 remaining UL at clause level unless authorized access changes;
+- Phase 1 research report and appropriate public summary.
 
 **Phase 2 — Human Reviewer Evaluation**
 
@@ -95,14 +102,15 @@ The brief is a research proposal, not a frozen protocol, preregistered study, co
 
 ### Proposed Scope of Collaboration
 
-The immediate collaboration opportunity concerns Phase 1 and may include:
+The immediate collaboration opportunity concerns completion and independent scrutiny of Phase 1. It may include:
 
-1. Supporting evidence-packet construction and stabilization.
-2. Reviewing the research boundaries and evidence requirements.
-3. Providing relevant engineering or research-methodology feedback.
-4. Supporting the C1–C20 mapping and comparative framework assessment.
-5. Reviewing the investigator-side reconstruction and traceability approach.
-6. Supporting documentation of findings, uncertainties, and limitations.
+1. Supporting final stabilization and version control of the S01 evidence packets and evidence index.
+2. Reviewing the recovered historical C1–C20 criteria and the separate Proposed v0.1 set without merging them.
+3. Providing independent second-coder verification, if an appropriate reviewer is available.
+4. Reviewing the existing investigator-side reconstruction audit and traceability approach.
+5. Reviewing the source-bounded comparative synthesis, including the explicit ISO/IEC 42001 access limitation.
+6. Completing publication-boundary, confidentiality, licensing, and third-party-rights checks.
+7. Supporting the final Phase 1 report and documentation of remaining uncertainties.
 
 Support for Phase 2 may be discussed separately, subject to completion of its prerequisites and an agreed research arrangement.
 
@@ -110,14 +118,14 @@ The final scope, responsibilities, deliverables, and acceptance criteria will be
 
 ### Expected Deliverables
 
-**Phase 1 — Current Deliverables**
+**Phase 1 — Completion Deliverables**
 
-- Evidence packets and supporting technical materials;
-- Evidence index and traceability references;
-- C1–C20 mapping;
-- Investigator-side reconstruction and evidence-sufficiency assessment;
-- Ambiguity register;
-- Comparative assessment and documented limitations;
+- Finalized evidence packets and evidence index;
+- Finalized investigator-side C1–C20 mapping using the recovered historical criteria, with provenance limitations stated;
+- Independent second-coder verification report, only if an independent reviewer is secured; otherwise, an explicit statement that verification remains outstanding;
+- Finalized reconstruction and evidence-sufficiency assessment, with scope limits;
+- Updated ambiguity register;
+- Bounded comparative synthesis of public BAES text and NIST AI RMF 1.0 Core; ISO/IEC 42001:2023 remains UL at clause level unless authorized access changes;
 - Phase 1 research report and appropriate public summary.
 
 **Phase 2 — Conditional Deliverables**
