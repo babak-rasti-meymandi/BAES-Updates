@@ -289,6 +289,7 @@ Organizations interested in funding, hosting, or contributing to this research a
 Relevant public resources:
 
 - [BAES-Public — Public standard and research foundation](https://github.com/babak-rasti-meymandi/BAES-Public)
+- [BAES Foundation Status & Maturity — Established Foundation and validation boundaries](https://github.com/babak-rasti-meymandi/BAES-Public/blob/main/06_BAES_Foundation_Status_and_Maturity.md)
 - [Human-AI-Authorization-Evaluation — Related independent evaluation project](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation)
 - [Evaluation Brief — Research design and proposed budget](evaluation-brief.md)
 - [Research Phases and Current Scope](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation/blob/main/15-Research-Phases-and-Current-Scope.md)
