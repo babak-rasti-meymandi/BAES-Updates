@@ -1,8 +1,8 @@
 # BAES Updates
 
-**Public information on BAES-related collaboration, sponsorship, consulting, and selected research activity.**
+**Public information on BAES-related collaboration, sponsorship, consulting, and engagement opportunities.**
 
-BAES-Updates is the public-facing space for selected collaboration opportunities, research activity, and development-related information associated with the Babak AI Engineering Standard (BAES).
+BAES-Updates is the public-facing space for collaboration opportunities, sponsorship, consulting, and related engagement information associated with the Babak AI Engineering Standard (BAES). The coordinated research program is maintained separately in [BAES-Research-Program](https://github.com/babak-rasti-meymandi/BAES-Research-Program).
 
 It complements the standard's public reference. It does not replace BAES-Public or redefine the standard.
 
@@ -15,6 +15,7 @@ It complements the standard's public reference. It does not replace BAES-Public 
 | Discuss a practical engineering problem involving human authority, AI delegation, or evidence | [Authority & Evidence Consulting](collaboration/authority-and-evidence-consulting.md) |
 | Explore founding sponsorship and research collaboration | [Current Opportunities](collaboration/current-opportunities.md) |
 | Review the independent evaluation research design | [Evaluation Brief](collaboration/evaluation-brief.md) |
+| Review the coordinated research program | [BAES-Research-Program](https://github.com/babak-rasti-meymandi/BAES-Research-Program) |
 | Review the separate empirical evaluation project | [Human-AI-Authorization-Evaluation](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation) |
 
 **Commercial consulting and founding sponsorship are separate engagement paths.** Consulting fees are defined after the scope is agreed. Sponsorship is a separate contribution governed by written terms; it does not automatically purchase consulting services or transfer ownership of BAES.
@@ -27,7 +28,7 @@ This repository provides public information about:
 
 - founding sponsorship and research collaboration opportunities;
 - the proposed Authority & Evidence consulting service;
-- independent research scope, status, and supporting documents;
+- engagement-specific research collaboration information and supporting documents;
 - selected development-related information intended for external discussion.
 
 It is intended to make engagement routes clear while keeping the standard's definitions and architecture in their appropriate reference repository.
@@ -37,7 +38,8 @@ It is intended to make engagement routes clear while keeping the standard's defi
 | Repository | Role |
 |---|---|
 | [BAES-Public](https://github.com/babak-rasti-meymandi/BAES-Public) | The stable public reference for the BAES standard, its Foundation, architecture, and published status. |
-| **BAES-Updates** | Public information about collaboration, sponsorship, consulting, and selected research activity. |
+| **BAES-Updates** | Public information about collaboration, sponsorship, consulting, and engagement opportunities. |
+| [BAES-Research-Program](https://github.com/babak-rasti-meymandi/BAES-Research-Program) | The coordinated public research-program record, including research governance, methods, tracks, and project registry. |
 | [Human-AI-Authorization-Evaluation](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation) | A separate project for empirical evaluation of human authorization and semantic deviation in AI-assisted engineering. |
 
 BAES-Updates does not replace BAES-Public. Changes to the standard itself belong in the appropriate standard repository and follow its own change-control expectations.
@@ -52,7 +54,6 @@ BAES-Updates does not replace BAES-Public. Changes to the standard itself belong
 - **[Authority & Evidence Consulting](collaboration/authority-and-evidence-consulting.md)** — proposed written-first consulting on human authority, delegated AI action, evidence, and traceability.
 - **[Current Opportunities](collaboration/current-opportunities.md)** — founding sponsorship and research collaboration information.
 - **[Evaluation Brief](collaboration/evaluation-brief.md)** — the independent evaluation's research question, method, phases, deliverables, budget, and limitations.
-- **[research/](research/README.md)** — existing research notes and materials retained pending their planned integration into a separate repository.
 - **[Image assets and usage guidance](assets/images/README.md)** — conceptual diagrams and the thematic SVG icon library.
 
 ## Publication principles
