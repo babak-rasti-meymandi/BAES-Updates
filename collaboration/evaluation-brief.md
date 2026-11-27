@@ -204,11 +204,13 @@ If Phase 2 prerequisites are not met, the project will remain within Phase 1 sco
 
 ## 7. Proposed Funding and Payment Structure
 
-**Proposed programme funding: USD 40,000**
+**Proposed founding sponsorship: USD 40,000**
 
-**Proposed planning envelope: approximately six months.**
+**Initial planning horizon: approximately six months, subject to written agreement.**
 
-The proposed funding supports the independent research programme. It is not a purchase price for BAES, a valuation of its intellectual property, or an automatic grant of ownership or exclusive rights.
+The proposed sponsorship supports the agreed independent research programme and continued BAES development. The budget includes a defined allocation for the Research Lead's **Research and Engineering Leadership**, alongside agreed research, engineering, development, and reporting activities. The allocation and associated responsibilities will be specified in the sponsorship agreement.
+
+This is a founding sponsorship proposal, not a consulting fee, equity investment, purchase price for BAES, or automatic grant of ownership or exclusive rights. Any commercial-use rights, licensing, institutional access, or other permissions must be negotiated separately and documented in writing.
 
 The proposed payment schedule is:
 
