@@ -1,6 +1,12 @@
-# Current Research and Collaboration Opportunities
+# Founding Sponsorship and Research Collaboration
 
-This page lists current opportunities to fund, evaluate, and collaborate on the Babak AI Engineering Standard (BAES).
+This page describes the proposed founding sponsorship and related research collaboration opportunities for the Babak AI Engineering Standard (BAES).
+
+The initial request is **USD 40,000 in founding sponsorship** to support strategic collaboration, continued BAES development, and practical application of the standard. The proposed budget includes a defined allocation for the founder's **Research and Engineering Leadership**, alongside agreed research, engineering, and development activities.
+
+This is a sponsorship proposal, not an equity investment, purchase of BAES intellectual property, or payment for a consulting project. The initial planning period is approximately six months and is a negotiable planning horizon, not an inflexible completion deadline.
+
+Any commercial-use rights, institutional access, licensing, or other permissions must be negotiated separately and documented in writing. Sponsorship alone does not grant ownership, blanket exclusivity, unrestricted commercial rights, or control over BAES research findings, evaluation criteria, architecture, or standardization decisions.
 
 Each opportunity is subject to a clearly defined scope, agreed deliverables, and transparent terms. Listing an opportunity does not imply an existing partnership, funding commitment, endorsement, or transfer of intellectual property.
 
@@ -144,7 +150,7 @@ The precise deliverables and acceptance criteria will be agreed in advance.
 
 ### Funding, Payment Structure, and Duration
 
-The proposed funding for the independent research programme is **USD 40,000**, with an approximate six-month planning envelope.
+The proposed founding sponsorship is **USD 40,000**, with an approximate six-month initial planning envelope. It supports the agreed independent research and BAES development programme and includes a defined allocation for the founder's Research and Engineering Leadership. The planning period and work sequence may be adjusted by mutual written agreement; the amount is not a consulting fee, equity investment, or purchase price for BAES.
 
 The proposed payment schedule is:
 
@@ -158,6 +164,8 @@ The proposed payment schedule is:
 The milestone definitions, deliverable acceptance procedure, payment deadlines, and applicable administrative arrangements will be specified in the final agreement.
 
 The initial mobilization payment forms part of the total programme funding; it is not an additional fee.
+
+The proposed budget should transparently identify the founder's Research and Engineering Leadership allocation as well as the resources required for the agreed programme activities. The detailed allocation, responsibilities, milestones, and payment conditions will be defined in the sponsorship agreement.
 
 The proposed budget distinguishes between:
 
@@ -182,7 +190,7 @@ Phase 2 expenses will be incurred only if the relevant prerequisites are satisfi
 
 If Phase 2 cannot proceed, any resulting change to the scope, deliverables, or allocation of funds will require an explicit written agreement between the parties.
 
-The USD 40,000 amount is a proposed programme funding figure, not a purchase price for BAES, a valuation of its intellectual property, or an automatic grant of ownership or exclusive rights.
+The USD 40,000 amount is a proposed founding sponsorship figure, not a purchase price for BAES, a valuation of its intellectual property, an equity investment, or an automatic grant of ownership or exclusive rights. Any commercial-use rights or licensing permissions are negotiable only through a separate written agreement.
 
 The final agreement will define the scope, resources, access requirements, deliverables, and payment obligations.
 
@@ -199,6 +207,8 @@ A funding or research partner may:
 - Designate an institutional coordination focal point to facilitate communication and coordination.
 
 Any access to systems or confidential information will require appropriate authorization and agreed handling conditions.
+
+Where useful and mutually agreed, the collaboration may include an in-person visit to the sponsor's country. The purpose, timing, travel arrangements, and associated costs of any visit will be defined separately in the written collaboration plan.
 
 ### Institutional Recognition and Research Sponsorship
 
