@@ -2,61 +2,65 @@
 
 <img src="../assets/images/09-collaboration-partnerships.svg" alt="Collaboration and partnerships" width="96" />
 
-There are **two distinct ways to engage with BAES-related work**. Choose the path that matches your objective.
+There are **two distinct ways to engage with BAES-related work**. They serve different purposes and are governed by separate terms.
+
+For the standard itself, its architecture, and the published Foundation status, refer to [BAES-Public](https://github.com/babak-rasti-meymandi/BAES-Public).
 
 ## Choose your path
 
-For the current public description of BAES maturity, including the distinction between its established Foundation, higher-layer development, and independent validation, see the [BAES Foundation Status & Maturity Statement](https://github.com/babak-rasti-meymandi/BAES-Public/blob/main/06_BAES_Foundation_Status_and_Maturity.md).
-
-| | Commercial consulting | Independent research sponsorship or collaboration |
+| | Commercial Consulting | Founding Sponsorship and Research Collaboration |
 |---|---|---|
-| **Best fit** | An organization has a practical engineering question about authority, delegated AI action, approval, or evidence. | A sponsor or research partner wants to support or contribute to a bounded, independent research project. |
-| **Main focus** | Context-specific advice and usable written artifacts. | Research questions, evaluation methods, evidence-packet construction, and reporting. |
-| **Outputs** | Agreed maps, specifications, evidence matrices, gap analysis, or recommendations. | Phase 1 evidence package and research report; human-review evidence and analysis only if conditional Phase 2 is conducted. |
-| **Budget approach** | Quoted after the commercial scope is defined. | A separate research proposal with a defined budget, milestones, and payment terms. |
-| **Start here** | [**Authority & Evidence Consulting**](authority-and-evidence-consulting.md) | [Research and collaboration opportunities](current-opportunities.md) |
+| **Best fit** | An organization has a specific engineering problem involving human authority, delegated AI action, approval, or evidence. | A sponsor or institutional partner wants to support BAES development and independent research, and may wish to negotiate defined commercial-use rights. |
+| **Main purpose** | Context-specific advisory work and written engineering artifacts. | Strategic support for BAES development, research, and application. |
+| **Financial basis** | Consulting fee quoted after the scope is defined. | Proposed founding sponsorship of USD 40,000, subject to a separate written agreement. |
+| **Rights** | Deliverables and permitted use are agreed for the engagement. | Any commercial-use rights, licensing, or other permissions are negotiated separately. |
+| **Start here** | [Authority & Evidence Consulting](authority-and-evidence-consulting.md) | [Founding Sponsorship and Current Opportunities](current-opportunities.md) |
 
 Neither path implies that a contract, partnership, endorsement, funding commitment, or validation has already been secured.
 
 ---
 
-## Commercial consulting
+## 1. Commercial Consulting
 
 <img src="../assets/images/07-decision-making.svg" alt="Decision making" width="96" />
 
 The proposed consulting service helps organizations examine how human intent, authorization boundaries, delegated AI actions, engineering evidence, and human override are represented in a defined context.
 
-It is advisory and scope-defined. The parties agree on the question, deliverables, access requirements, confidentiality, intellectual-property terms, schedule, and fee before work begins.
+It is advisory and scope-defined. Before work begins, the parties agree on the question, deliverables, access requirements, confidentiality, intellectual-property terms, schedule, and fee.
 
-Consulting engagements are separate from independent research sponsorship. A consulting fee does not constitute research funding, and research sponsorship does not automatically include consulting services.
+Consulting engagements are separate from founding sponsorship. A consulting fee is payment for an agreed advisory engagement; it is not a sponsorship contribution.
 
 **Read:** [BAES Consulting — Authority & Evidence Design](authority-and-evidence-consulting.md)
 
-## Independent research sponsorship and collaboration
+## 2. Founding Sponsorship and Research Collaboration
 
 <img src="../assets/images/03-universities-research.svg" alt="Universities and research" width="96" />
 
-The current research proposal concerns an independent, bounded evaluation of human authorization in AI-assisted engineering.
+BAES is seeking an initial **USD 40,000 founding sponsorship** to support strategic collaboration, continued development, and the practical application of the standard.
 
-The proposed programme has an approximately six-month planning horizon and an indicative total research budget of **USD 40,000**. Its scope, milestones, payment schedule, and any conditional activities are defined in the separate research proposal.
+The proposed sponsorship is not an equity investment, purchase of BAES intellectual property, or payment for a consulting project. The proposed budget includes a defined allocation for the founder's **Research and Engineering Leadership**, alongside agreed research, engineering, and development activities.
 
-The proposed budget is for the research programme. It is not a valuation or purchase price for BAES, its intellectual property, or its future commercial potential.
+The initial planning period is approximately six months. It is a proposed planning horizon, not an inflexible deadline; duration and activities can be agreed with the sponsor.
 
-### Research phases
+A sponsor may propose commercial-use arrangements, institutional access, licensing, training, or other defined rights. These are negotiable and must be documented separately. Sponsorship alone does not grant blanket exclusivity, ownership, or unrestricted commercial rights.
+
+### Research and evaluation
+
+The current independent evaluation work has two distinct phases:
 
 **Phase 1 — Evidence-Packet Construction and Investigator-Side Assessment**
 
 **Status: Active**
 
-The current work focuses on evidence-packet construction and assessment, including:
+The current work concerns the construction and assessment of evidence packets, including:
 
-- Stabilizing the public synthetic S01 scenario and its C99 complete_groups technical baseline;
+- Stabilizing the public synthetic S01 scenario and its technical baseline;
 - Constructing evidence variants representing distinct authorization conditions;
 - Preparing an evidence index;
 - Mapping the preserved evaluation criteria C1–C20;
-- Conducting an investigator-side traceability and reconstruction audit;
+- Conducting investigator-side traceability and reconstruction assessment;
 - Maintaining an ambiguity register;
-- Preparing a comparative assessment of BAES, NIST AI RMF 1.0, and ISO/IEC 42001:2023.
+- Preparing a bounded comparison involving BAES, NIST AI RMF 1.0, and ISO/IEC 42001:2023.
 
 Phase 1 assesses the coherence, traceability, reconstructability, and evidential sufficiency of the constructed packets. It does not measure human reviewer performance.
 
@@ -64,78 +68,73 @@ Phase 1 assesses the coherence, traceability, reconstructability, and evidential
 
 **Status: Deferred and Conditional**
 
-The proposed human-participant study would use a held-out scenario and a 2×2 between-reviewer design. It can proceed only after the evidence materials, protocol, access controls, and other study prerequisites are finalized and frozen, and independent reviewers are available.
+A future human-participant study may be considered after the evidence materials, protocol, access controls, and other prerequisites are finalized and independent reviewers are available.
 
-No human reviewers have been recruited or assessed, and no human-review data have been collected.
-
-The public S01 scenario is not suitable for blinded confirmatory testing because its behavior and boundary-test result are already public.
-
-Phase 2 is not an unconditional commitment. Its execution, scope, and associated budget remain subject to the required prerequisites and a separate written agreement.
+No human reviewers have been recruited or assessed, and no human-review data have been collected. Phase 2 is not an unconditional commitment.
 
 ### Research resources
 
-- [Current Research and Collaboration Opportunities](current-opportunities.md)
-- [Research Brief — Human Authorization in AI-Assisted Engineering](evaluation-brief.md)
+- [Current Sponsorship and Collaboration Opportunities](current-opportunities.md)
+- [Independent Evaluation Brief](evaluation-brief.md)
 - [Human-AI-Authorization-Evaluation project](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation)
 - [Research Phases and Current Scope](https://github.com/babak-rasti-meymandi/Human-AI-Authorization-Evaluation/blob/main/15-Research-Phases-and-Current-Scope.md)
 
-The research brief is a proposal, not a completed study, frozen protocol, or claim that the method has been independently validated.
+The evaluation brief describes the research question, methodology, phases, expected outputs, budget assumptions, and limitations. It is a research proposal, not a completed study or a claim of independent validation.
 
-Research sponsorship supports the agreed research scope. It does not, by itself, transfer BAES ownership, grant an intellectual-property licence, create exclusive rights, or give a sponsor authority over research findings, evaluation criteria, or BAES standardization decisions. Any recognition, access, institutional-use rights, or other permissions require separate written terms.
+### Sponsorship recognition and BAES naming
 
-### BAES name and special sponsor recognition
+Subject to a separate written agreement, a sponsor may be recognized as a **Founding Sponsor** or **Principal Institutional Partner**.
 
-The current name of BAES is not necessarily its final or unchangeable name. The present name records the origin and current stage of the standard; a future name may be considered if the work develops through broader institutional and professional participation.
+A formally recognized sponsor may submit a proposal concerning the future naming of BAES. Such a proposal will receive substantial weight and priority in the applicable review process. This is a proposal right, not an automatic right to rename BAES.
 
-A sponsor formally recognized as a **Founding Sponsor** or **Principal Institutional Partner** may submit a formal proposal for the future naming of BAES. That proposal will receive substantial weight and priority in the review and decision-making process.
+Recognition does not confer ownership, a veto, or control over BAES architecture, research findings, evaluation criteria, or standardization decisions. Any final naming decision remains subject to the applicable BAES approval process.
 
-This is a meaningful proposal right, not an automatic right to rename BAES. A sponsor does not acquire ownership, intellectual-property rights, a veto, or control over BAES architecture, research findings, evaluation criteria, or standardization decisions through this recognition. Any final name change remains subject to the applicable BAES approval process and must be recorded in separate written terms. The designation and its basis are not automatic consequences of being the first or largest financial contributor.
+### Potential commercial and institutional arrangements
 
-## Potential future collaboration pathways
+Depending on the sponsor's objectives and a separate written agreement, future arrangements may include:
 
-Subject to research maturity, independent assessment, resources, and separate agreements, further collaboration may be explored in three areas:
+- Defined internal or institutional use of selected BAES materials;
+- Commercial-use rights within an agreed scope;
+- Licensing of specified materials;
+- Professional education, training, or train-the-trainer activities;
+- Institutional collaboration and application development.
 
-**1. Institutional Access and Licensing**
+The scope, duration, permitted users, redistribution rights, and any exclusivity must be negotiated explicitly. No such rights are automatically granted by sponsorship.
 
-Potential institutional access, early access, and permitted organizational use of BAES materials may be considered under separately defined licensing terms. Access does not imply ownership or unrestricted redistribution.
+## Independence, ownership, and research integrity
 
-**2. Professional Education and Development**
+BAES remains independently developed. The founder retains ownership of BAES and its pre-existing intellectual property unless a separate written instrument expressly provides otherwise.
 
-Future activities may include professional education, structured training, train-the-trainer programmes, and curriculum development. Any instructor, programme leadership, or delivery role would require a separate agreement defining responsibilities, duration, compensation, and intellectual-property arrangements.
+Sponsorship or collaboration must not:
 
-**3. Certification and Organizational Assessment**
+- Predetermine research findings;
+- Give a sponsor control over evaluation criteria without documented methodological justification;
+- Suppress negative, mixed, or inconclusive results;
+- Transfer control over BAES architecture or standardization decisions;
+- Imply endorsement by a sponsor or research partner.
 
-A future assessment or certification pathway may be explored if the necessary methodology, governance, independence, and assessment controls are established. No current BAES certification or accredited certification service is implied.
-
-These are potential future pathways, not included deliverables of the current research programme and not automatically granted through sponsorship.
+Research findings will be reported within the limits of the available evidence. Any commercial-use rights, licensing, publication permissions, confidentiality arrangements, and recognition must be defined separately in writing.
 
 ## Areas of interest
 
-Depending on the path and agreed scope, discussions may include:
+Depending on the engagement and agreed scope, discussions may include:
 
 - Human intent, authorization, and boundaries for delegated AI action;
-- Identifying and documenting semantic deviation between stated intent and AI-produced changes;
+- Identifying and documenting semantic deviation in AI-assisted engineering;
 - Evidence quality, decision records, and traceability;
 - Evaluation design, test scenarios, and responsible reporting;
-- Academic discussion, independent review, or research collaboration.
+- Institutional application and commercial use of agreed BAES materials;
+- Academic discussion and independent research collaboration.
 
 These are areas of interest, not claims of an existing partnership or a request for an organization to endorse BAES.
-
-## Independence, intellectual property, and engagement terms
-
-BAES is developed as an independent engineering standard. Research findings, evaluation criteria, and standardization decisions must remain independent of sponsor or partner preferences.
-
-The creator retains ownership of BAES and its pre-existing intellectual property. Research outputs, permitted uses, institutional access, recognition, licensing, and any exclusivity arrangements must be defined separately in writing.
-
-No engagement guarantees a favorable research result, endorsement, certification outcome, or exclusive commercial right.
 
 ## Contact and next steps
 
 Initial inquiries can be handled in writing. Use the public contact route listed on the maintainer's [GitHub profile](https://github.com/babak-rasti-meymandi) or open a discussion through the relevant public project repository.
 
-A short first message is enough: describe the context, the question you want to address, and the type of outcome you need. Do not include credentials, confidential code, or restricted organizational information in a public message.
+A short first message is enough: describe the context, the question or opportunity, and the type of engagement being considered. Do not include credentials, confidential code, or restricted organizational information in a public message.
 
-Any engagement must have a defined scope and written terms. Findings will be reported within the limits of the agreed work and available evidence; no favorable outcome is guaranteed.
+Any engagement must have a defined scope and written terms. No favorable research result, endorsement, certification outcome, or exclusive commercial right is guaranteed.
 
 ---
 
